@@ -6,3 +6,4 @@
 4. Ustaw otwieranie okna na środku ekranu — diff: 2 linijki; rozumiem: 2 z 2
 5. Zwiększ rozmiar czcionki napisu do 32 — diff: 2 linijki; rozumiem: 2 z 2
 6. Zmień kolor napisu Warsztat na SteelBlue — diff: 2 linijki; rozumiem: 2 z 2
+7. Otocz zawartość okna kontenerem StackPanel z odstępem i marginesem — diff: 4 linijki; rozumiem: 4 z 4
