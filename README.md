@@ -14,3 +14,4 @@
 12. Dodaj pole tekstowe TextBox z podpowiedzią Watermark — diff: 1 linijka; rozumiem: 1 z 1
 13. Dodaj suwak Slider z zakresem od 0 do 100 — diff: 1 linijka; rozumiem: 1 z 1
 14. Dodaj pasek postępu ProgressBar o szerokości 300 — diff: 1 linijka; rozumiem: 1 z 1
+15. Zmień motyw aplikacji w pliku App.axaml na ciemny — diff: 2 linijki; rozumiem: 2 z 2
