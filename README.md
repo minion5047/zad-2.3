@@ -9,3 +9,4 @@
 7. Otocz zawartość okna kontenerem StackPanel z odstępem i marginesem — diff: 4 linijki; rozumiem: 4 z 4
 8. Dodaj drugi napis podrzędny z podtytułem pod napisem Warsztat — diff: 1 linijka; rozumiem: 1 z 1
 9. Dodaj wyśrodkowany przycisk Button z treścią „Kliknij mnie” — diff: 1 linijka; rozumiem: 1 z 1
+10. Ustaw zaokrąglenie rogów i margines wewnętrzny przycisku — diff: 2 linijki; rozumiem: 2 z 2
