@@ -11,5 +11,6 @@
         <TextBlock Text="Warsztat" HorizontalAlignment="Center" FontSize="32" Foreground="SteelBlue" />
         <TextBlock x:Name="txtPodpis" Text="Aplikacja testowa Avalonia z agentem" HorizontalAlignment="Center" FontSize="14" Foreground="Gray" />
         <Button Content="Kliknij mnie" Click="Button_Click" HorizontalAlignment="Center" CornerRadius="8" Padding="16,8" />
+        <TextBox Width="300" HorizontalAlignment="Center" Watermark="Wpisz swoje imię..." />
     </StackPanel>
 </Window>
