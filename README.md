@@ -10,3 +10,4 @@
 8. Dodaj drugi napis podrzędny z podtytułem pod napisem Warsztat — diff: 1 linijka; rozumiem: 1 z 1
 9. Dodaj wyśrodkowany przycisk Button z treścią „Kliknij mnie” — diff: 1 linijka; rozumiem: 1 z 1
 10. Ustaw zaokrąglenie rogów i margines wewnętrzny przycisku — diff: 2 linijki; rozumiem: 2 z 2
+11. Dodaj obsługę kliknięcia przycisku w kodzie C# — diff: 9 linijek; rozumiem: 9 z 9
