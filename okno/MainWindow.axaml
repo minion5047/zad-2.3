@@ -4,6 +4,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="okno.MainWindow"
-        Title="Drugie okno z agentem">
+        Title="Drugie okno z agentem"
+        Width="600" Height="450">
     <TextBlock Text="Warsztat" HorizontalAlignment="Center" />
 </Window>
