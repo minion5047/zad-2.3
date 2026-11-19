@@ -9,5 +9,6 @@
         WindowStartupLocation="CenterScreen">
     <StackPanel Spacing="12" Margin="20">
         <TextBlock Text="Warsztat" HorizontalAlignment="Center" FontSize="32" Foreground="SteelBlue" />
+        <TextBlock x:Name="txtPodpis" Text="Aplikacja testowa Avalonia z agentem" HorizontalAlignment="Center" FontSize="14" Foreground="Gray" />
     </StackPanel>
 </Window>
