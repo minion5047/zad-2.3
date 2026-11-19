@@ -13,5 +13,6 @@
         <Button Content="Kliknij mnie" Click="Button_Click" HorizontalAlignment="Center" CornerRadius="8" Padding="16,8" />
         <TextBox Width="300" HorizontalAlignment="Center" Watermark="Wpisz swoje imię..." />
         <Slider x:Name="suwak" Width="300" Minimum="0" Maximum="100" Value="50" HorizontalAlignment="Center" />
+        <ProgressBar Width="300" Minimum="0" Maximum="100" Value="50" Height="14" HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
