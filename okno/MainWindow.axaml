@@ -7,5 +7,5 @@
         Title="Drugie okno z agentem"
         Width="600" Height="450"
         WindowStartupLocation="CenterScreen">
-    <TextBlock Text="Warsztat" HorizontalAlignment="Center" FontSize="32" />
+    <TextBlock Text="Warsztat" HorizontalAlignment="Center" FontSize="32" Foreground="SteelBlue" />
 </Window>
